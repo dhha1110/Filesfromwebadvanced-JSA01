@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .btn-style{
+                display:inline-block;
+                border: 2px solid black; 
+                padding: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <img id ="face" src="http://graph.facebook.com/100028247774429/picture?type=large" style="width: 200px;">
+        <p></p>
+        <div id="button1" class="btn-style">Kiếp trước</div>
+        <div id="button2" class="btn-style">Kiếp sau</div>
+        <script>
+            document.getElementById("button1").onclick = function(){ 
+                document.getElementById("face").src = "https://www.rd.com/wp-content/uploads/2017/10/These-Funny-Dog-Videos-Are-the-Break-You-Need-Right-Now_493370860-Jenn_C_FT.jpg";
+            }
+            document.getElementById("button2").onclick = function(){ 
+                document.getElementById("face").src = "https://i.ytimg.com/vi/oer_Lx_ufTw/hqdefault.jpg";
+            } 
+        </script>
+    </body>
+</html>

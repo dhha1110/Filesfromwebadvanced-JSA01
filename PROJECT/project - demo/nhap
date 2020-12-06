@@ -1,0 +1,49 @@
+        Diem HK2
+                Diem HS 1 - HK2
+                if(i == 8){
+                    tongDiemHK1 += diem;
+                }
+                if(i == 9){
+                    tongDiemHK1 += diem;
+                }
+                if(i == 10){
+                    tongDiemHK1 += diem;
+                }
+                if(i == 11){
+                    tongDiemHK1 += diem;
+                }
+                // Diem HS 2 - HK2
+                if(i == 12){
+                    tongDiemHK1 += 2*diem;
+                }
+                if(i == 13){
+                    tongDiemHK1 += 2*diem;
+                }
+                // Diem HS 3 - HK2
+                if(i == 14){
+                    tongDiemHK1 += 3*diem;
+                }        Diem HK2
+                Diem HS 1 - HK2
+                if(i == 8){
+                    tongDiemHK1 += diem;
+                }
+                if(i == 9){
+                    tongDiemHK1 += diem;
+                }
+                if(i == 10){
+                    tongDiemHK1 += diem;
+                }
+                if(i == 11){
+                    tongDiemHK1 += diem;
+                }
+                // Diem HS 2 - HK2
+                if(i == 12){
+                    tongDiemHK1 += 2*diem;
+                }
+                if(i == 13){
+                    tongDiemHK1 += 2*diem;
+                }
+                // Diem HS 3 - HK2
+                if(i == 14){
+                    tongDiemHK1 += 3*diem;
+                }

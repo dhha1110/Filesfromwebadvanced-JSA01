@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>
+            Name : <input onchange="sayHello()" id="name" type="text">
+        </p>
+        <p>
+            Chào <span id="result"></span>
+        </p>
+        <script>
+            function sayHello(params) {
+                let name = document.getElementById("name").value;
+                document.getElementById("result").innerText = name;
+            }
+        </script>
+    </body>
+</html>
